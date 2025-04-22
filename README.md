@@ -2,7 +2,7 @@
 
 ## Automatická detekce rezonančních špiček pro self-sensing sondy (Akyiama, NenoProbes)
 
-Tento repozitář obsahuje referenční implementaci algoritmu pro detekci rezonančních špiček z frekvenčních sweepů self-sensing sond používaných v AFM (Atomic Force Microscopy). Jedná se o součást projektu **TACOM – TM03000033** (https://starfos.tacr.cz/cs/projekty/TM03000033), jehož cílem je zvýšení automatizace a spolehlivosti měření na AFM zařízeních, konkrétně systému **LiteScope** od společnosti NenoVision.
+Tento repozitář obsahuje referenční implementaci algoritmu pro detekci rezonančních špiček z frekvenčních sweepů self-sensing sond používaných v AFM (Atomic Force Microscopy). Jedná se o součást projektu **TACOM – TM03000033** (https://starfos.tacr.cz/cs/projekty/TM03000033), jehož cílem je zvýšení automatizace a spolehlivosti měření na AFM zařízeních.
 
 ### 📂 Obsah repozitáře
 
@@ -65,7 +65,7 @@ Tento repozitář vznikl za účelem splnění výstupu projektu **TACOM – TM0
 
 ## Automatic Resonance Peak Detection for Self-Sensing AFM Probes (Akiyama, NenoProbes)
 
-This repository contains a reference implementation of an algorithm for detecting resonance peaks from frequency sweep data of self-sensing AFM probes. It is part of the **TACOM – TM03000033** project (https://starfos.tacr.cz/cs/projekty/TM03000033), which focuses on improving automation and robustness in AFM measurements, specifically within the **LiteScope** system by NenoVision.
+This repository contains a reference implementation of an algorithm for detecting resonance peaks from frequency sweep data of self-sensing AFM probes. It is part of the **TACOM – TM03000033** project (https://starfos.tacr.cz/cs/projekty/TM03000033), which focuses on improving automation and robustness in AFM measurements.
 
 ### 📂 Repository Structure
 
